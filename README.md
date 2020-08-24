@@ -1,4 +1,4 @@
-# apigw-upload-in-s3
+# apigw-upload-in-s3 https://medium.com/swlh/processing-multipart-form-data-using-api-gateway-and-a-java-lambda-proxy-for-storage-in-s3-e6598033ff3e
 
 Step 1: Use s3 bucket (s3:// ccds-call-volume-test/) and edit the CORS configuration of the bucket. This will allow GET and PUT request to interact with your bucket, from the web browser.
 
